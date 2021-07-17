@@ -1,4 +1,19 @@
+#header{
+    height: 5vh;
+    background-color: #d2ecff;
+}
+
+.link {
+    display: inline-block;
+    text-align: right;
+    font-size: 0.5em;
+}
+
 #name{
     color: #F55D3E;
     text-align: center;
+    font-size: 3em;
+
 }
+
+
