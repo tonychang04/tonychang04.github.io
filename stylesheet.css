@@ -1,3 +1,4 @@
+
 #header{
     height: 5vh;
     background-color: #d2ecff;
@@ -15,11 +16,46 @@
     font-size: 3em;
 
 }
-
-.main {
+#quote {
+    background-color: #C2E81270;
+    font-size: 2em;
     text-align: center;
-    position: relative; left: 80px; top: 150px;
+}
+.main {
+    text-align: left;
+    position: relative; top: 150px;
     font-size: 2em;
 }
 
+.icon-facebook-sign {
+    position: relative;
+    top: 2em;
+    font-size: 2.5em;
+    padding-left: 0.5em;
+    color: #3b5998;
+}
+
+.icon-github-sign {
+    position: relative;
+    top: 2em;
+    font-size: 2.5em;
+    padding-left: 0.5em;
+    color: black;
+}
+
+.icon-linkedin-sign {
+    position: relative;
+    top: 2em;
+    font-size: 2.5em;
+    padding-left: 0.5em;
+    color: #0e76a8;
+}
+
+.icon-instagram {
+    position: relative;
+    top: 2em;
+    font-size: 2.5em;
+    padding-left: 0.5em;
+    color: #98458c;
+}
 
