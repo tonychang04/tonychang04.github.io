@@ -1,7 +1,9 @@
-
+body {
+    background-color: #F6F8ED;
+}
 #header{
     height: 5vh;
-    background-color: #d2ecff;
+    background-color: #91f5ad;
 }
 
 .link {
@@ -20,6 +22,8 @@
     background-color: #C2E81270;
     font-size: 2em;
     text-align: center;
+    margin-left: 10px;
+    margin-right: 10px;
 }
 .main {
     text-align: left;
@@ -57,5 +61,9 @@
     font-size: 2.5em;
     padding-left: 0.5em;
     color: #98458c;
+}
+
+#pic {
+    float: left;
 }
 
