@@ -15,7 +15,7 @@ body {
 #name{
     color: #F55D3E;
     text-align: center;
-    font-size: 3em;
+    font-size: 3.5em;
 
 }
 #quote {
@@ -32,9 +32,10 @@ body {
 }
 
 .icon-facebook-sign {
+
     position: relative;
     top: 2em;
-    font-size: 2.5em;
+    font-size: 3em;
     padding-left: 0.5em;
     color: #3b5998;
 }
@@ -42,7 +43,7 @@ body {
 .icon-github-sign {
     position: relative;
     top: 2em;
-    font-size: 2.5em;
+    font-size: 3em;
     padding-left: 0.5em;
     color: black;
 }
@@ -50,7 +51,7 @@ body {
 .icon-linkedin-sign {
     position: relative;
     top: 2em;
-    font-size: 2.5em;
+    font-size: 3em;
     padding-left: 0.5em;
     color: #0e76a8;
 }
@@ -58,7 +59,7 @@ body {
 .icon-instagram {
     position: relative;
     top: 2em;
-    font-size: 2.5em;
+    font-size: 3em;
     padding-left: 0.5em;
     color: #98458c;
 }
