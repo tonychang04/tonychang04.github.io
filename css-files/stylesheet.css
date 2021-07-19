@@ -77,3 +77,30 @@ body {
     font-size: 1.5em;
 }
 
+.row {
+    display: flex;
+}
+
+.column {
+
+    float: left;
+    flex: 30%;
+}
+
+/* credit https://www.sanwebcorner.com/2017/02/how-to-create-fade-line-for-header.html*/
+.fade-effect1{
+    display:block;
+    border:none;
+    color:white;
+    height:1px;
+    background:black;
+    background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#fff));
+}
+
+.v-divider{
+    margin-left:5px;
+    margin-right:5px;
+    width:1px;
+    height:100%;
+    border-left:2px solid gray;
+}
