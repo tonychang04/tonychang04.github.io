@@ -82,7 +82,7 @@ body {
 }
 
 .column {
-
+    color: #F55D3E;
     float: left;
     flex: 30%;
 }
@@ -108,5 +108,25 @@ body {
 
 .abilities {
     font-size: 0.7em;
+    color: #192BC2;
+}
+
+#school {
+    color: #449dde;
+}
+
+.footer {
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+    background-color: #91f5ad;
+}
+
+.interestpic {
+    position: relative;
+    padding-left: 2em;
+    float: right;
 }
 
