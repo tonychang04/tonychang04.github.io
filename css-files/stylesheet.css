@@ -2,7 +2,7 @@ body {
     background-color: #F6F8ED;
 }
 #header{
-    height: 3vh;
+    height: 4vh;
     background-color: #91f5ad;
 }
 
@@ -19,6 +19,7 @@ body {
 
 }
 #quote {
+    font-family: 'Niconne', cursive;
     background-color: #C2E81270;
     font-size: 2em;
     text-align: center;
@@ -26,6 +27,7 @@ body {
     margin-right: 10px;
 }
 .main {
+    font-family: 'Roboto', sans-serif;
     text-align: left;
     position: relative; top: 150px;
     font-size: 2em;
@@ -66,5 +68,12 @@ body {
 
 #pic {
     float: left;
+}
+
+.container {
+    position: relative;
+    margin-top: 10em;
+    float: top;
+    font-size: 1.5em;
 }
 
