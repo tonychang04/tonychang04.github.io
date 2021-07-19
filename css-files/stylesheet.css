@@ -97,6 +97,7 @@ body {
     background: -webkit-gradient(radial, 50% 50%, 0, 50% 50%, 350, from(#000), to(#fff));
 }
 
+/*credit https://www.pakainfo.com/how-to-create-vertical-line-between-columns-using-bootstrap/*/
 .v-divider{
     margin-left:5px;
     margin-right:5px;
@@ -104,3 +105,8 @@ body {
     height:100%;
     border-left:2px solid gray;
 }
+
+.abilities {
+    font-size: 0.7em;
+}
+
