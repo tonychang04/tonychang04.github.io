@@ -61,4 +61,5 @@ ignore: null
 theme: icarus
 deploy:
   type: git
-  repo: https://github.com/tonychang04/portfolio.git
+  repo: https://github.com/tonychang04/tonychang04.github.io.git
+  branch: gh-pages
