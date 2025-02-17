@@ -117,8 +117,6 @@ navbar:
             url: https://github.com/ppoffice/hexo-theme-icarus
 # Page footer configurations
 footer:
-    # Copyright text
-    copyright: © 2019
     # Links to be shown on the right of the footer section
     links:
         Creative Commons:
@@ -145,17 +143,7 @@ article:
     readtime: true
     # Whether to show updated time. For "auto", shows article update time only when page.updated is set and it is different from page.date
     update_time: true
-    # Article licensing block
-    licenses:
-        Creative Commons:
-            icon: fab fa-creative-commons
-            url: https://creativecommons.org/
-        Attribution:
-            icon: fab fa-creative-commons-by
-            url: https://creativecommons.org/licenses/by/4.0/
-        Noncommercial:
-            icon: fab fa-creative-commons-nc
-            url: https://creativecommons.org/licenses/by-nc/4.0/
+  
 # Search plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Search/
 search:
@@ -164,40 +152,17 @@ search:
     index_pages: true
 # Comment plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Comment/
-comment:
-    type: disqus
+#comment:
+  #  type: disqus
     # Disqus shortname
-    shortname: ''
+ #   shortname: ''
 # Donate plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Donation/
 donates:
-    # "Afdian.net" donate button configurations
-    -
-        type: afdian
-        # URL to the "Afdian.net" personal page
-        url: ''
-    # Alipay donate button configurations
-    -
-        type: alipay
-        # Alipay qrcode image URL
-        qrcode: ''
-    # "Buy me a coffee" donate button configurations
     -
         type: buymeacoffee
         # URL to the "Buy me a coffee" page
         url: ''
-    # Patreon donate button configurations
-    -
-        type: patreon
-        # URL to the Patreon page
-        url: ''
-    # Paypal donate button configurations
-    -
-        type: paypal
-        # Paypal business ID or email address
-        business: ''
-        # Currency code
-        currency_code: USD
     # Wechat donate button configurations
     -
         type: wechat
@@ -205,10 +170,12 @@ donates:
         qrcode: ''
 # Share plugin configurations
 # https://ppoffice.github.io/hexo-theme-icarus/categories/Plugins/Share/
-share:
-    type: sharethis
+
+#share:
+ #   type: sharethis
     # URL to the ShareThis share plugin script
-    install_url: ''
+  #  install_url: ''
+
 # Sidebar configurations.
 # Please be noted that a sidebar is only visible when it has at least one widget
 sidebar:
@@ -229,36 +196,33 @@ widgets:
         position: left
         type: profile
         # Author name
-        author: Your name
+        author: Tony Chang
         # Author title
-        author_title: Your title
+        author_title: Databricks | Naive Philosopher
         # Author's current location
-        location: Your location
+        location: Bellevue, WA
         # URL or path to the avatar image
-        avatar: 
+        avatar: /img/profile.png
         # Whether show the rounded avatar image
-        avatar_rounded: false
+        avatar_rounded: true
         # Email address for the Gravatar
         gravatar: 
         # URL or path for the follow button
-        follow_link: https://github.com/ppoffice
+        follow_link: https://www.linkedin.com/in/tony-chang-0430/
         # Links to be shown on the bottom of the profile widget
         social_links:
             Github:
                 icon: fab fa-github
-                url: https://github.com/ppoffice
-            Facebook:
-                icon: fab fa-facebook
-                url: https://facebook.com
+                url: https://github.com/tonychang04
+            LinkedIn:
+                icon: fab fa-linkedin
+                url: https://www.linkedin.com/in/tony-chang-0430/
             Twitter:
-                icon: fab fa-twitter
-                url: https://twitter.com
-            Dribbble:
-                icon: fab fa-dribbble
-                url: https://dribbble.com
-            RSS:
-                icon: fas fa-rss
-                url: /
+                icon: fab fa-x
+                url: https://x.com/tonychang430
+            Email:
+                icon: fas fa-envelope
+                url: mailto:tonychang430@gmail.com
     # Table of contents widget configurations
     -
         # Where should the widget be placed, left sidebar or right sidebar
