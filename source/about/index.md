@@ -44,6 +44,13 @@ Software engineer by day, philosopher by night. Forever seeking ways to make the
   <div class="timeline-item">
     <div class="timeline-content">
       <h3>Nov 2024</h3>
+      <h4><a href="https://www.linkedin.com/posts/yujiantang_great-hackathon-yesterday-thanks-to-everyone-activity-7256409316159574017-g-xE/?utm_source=share&utm_medium=member_desktop" target="_blank" style="color: inherit; text-decoration: none;">Winner of Open Source Software for AI Hackathon</a></h4>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
+      <h3>Nov 2024</h3>
       <h4><a href="https://devpost.com/software/omi-translator" target="_blank" style="color: inherit; text-decoration: none;">Winner of Omi Hackathon</a></h4>
     </div>
   </div>
@@ -68,6 +75,16 @@ Software engineer by day, philosopher by night. Forever seeking ways to make the
 
   <div class="timeline-item">
     <div class="timeline-content">
+      <h3>Apr 2024</h3>
+      <h4>Software Engineer Intern @ Playtogether</h4>
+      <ul>
+        <li>Built the frontend for the game server automation</li>
+      </ul>
+    </div>
+  </div>
+
+  <div class="timeline-item">
+    <div class="timeline-content">
       <h3>Aug 2023</h3>
       <ul>
         <li>Tan Family Education Foundation Scholarship</li>
@@ -79,7 +96,7 @@ Software engineer by day, philosopher by night. Forever seeking ways to make the
   <div class="timeline-item">
     <div class="timeline-content">
       <h3>May 2023 - Aug 2023</h3>
-      <h4>Software Engineer @ Amazon</h4>
+      <h4>Software Engineer Intern @ Amazon</h4>
       <ul>
         <li>Pack Team</li>
         <li>Saved 50 million dollars by optimizing the shipping label printing process</li>
@@ -90,7 +107,7 @@ Software engineer by day, philosopher by night. Forever seeking ways to make the
   <div class="timeline-item">
     <div class="timeline-content">
       <h3>May 2022 - Aug 2022</h3>
-      <h4>Software Engineer @ Meta</h4>
+      <h4>Software Engineer Intern @ Meta</h4>
       <ul>
         <li>Ads ML Infra Team</li>
         <li>Built the infrastructure that powers the ads business</li>
