@@ -1,38 +1,34 @@
 ---
-title: Hello World
+title: Hello World - My First Blog Post
+tags:
+    - Philosophy
+    - Personal Growth
+    - Technology
+    - Reflection
 ---
-Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
-## Quick Start
+## Message from the author
+Welcome to my blog! This is my first time writing a blog. Hopefully it's not 3分钟热度 lol.
 
-### Create a new post
+<figure class="post-figure">
+    <img src="img/hello_world.png"  class="post-image" width="200" height="200">
+    <figcaption>In case you don't know, this is my wechat profile pic for 7+ years. A friend sent it to me long ago and it completely hits me.</figcaption>
+</figure>
 
-``` bash
-$ hexo new "My New Post"
-```
 
-More info: [Writing](https://hexo.io/docs/writing.html)
+## Main Content
 
-### Run server
+### Why am I doing this?
 
-``` bash
-$ hexo server
-```
+I have the habit of contemplating my life from time to time. However, I rarely actually store all of them. Sometimes I share it with others, other times I put it in my mind. I want a unified place to store all my shower thoughts (胡思乱想). There may be some weird context, but that's all part of my life. Looking back after years, I believe this will be valuable. Also I want to practice my english writing skills sometimes😂.
 
-More info: [Server](https://hexo.io/docs/server.html)
+I hope to talk about tech, personal growth, philosophy, and more. I will also update my personal journey here. If this also resonates/benefits you, I will be very happy. If not, I can't do anything about it lol.
 
-### Generate static files
+### Why don't I choose WeChat or 小红书
 
-``` bash
-$ hexo generate
-```
+I thought of posting it on other social media platforms. However, posting such things will get likes and comments, which will impact what I want to write. I want to keep it pure. Also, I am very sensitive to negative comments, so I want to keep it away from popular social media. If you want to know more about me or my ideas, you can follow or hit me up! If not, I'm not going to waste 公共资源 and get judged 🤷.
 
-More info: [Generating](https://hexo.io/docs/generating.html)
+### What the future of this blog?
 
-### Deploy to remote sites
-
-``` bash
-$ hexo deploy
-```
-
-More info: [Deployment](https://hexo.io/docs/one-command-deployment.html)
+If it actually gets popular, I will probably spread it to other platforms. It means people are actually reading it. I will be very happy! 
+If not, this is just a place to store my thoughts. It's still valuable, because I will be able to look back and see how I was feeling at that time! ❤️
