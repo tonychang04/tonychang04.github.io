@@ -139,5 +139,21 @@ Software engineer by day, philosopher by night. Forever seeking ways to make the
   </div>
 </div>
 
+<style type="text/css">
+/* Your timeline CSS */
+</style>
+
+<script>
+document.addEventListener('DOMContentLoaded', function() {
+    const timeline = document.querySelector('.timeline-container');
+    if (timeline) {
+        timeline.style.display = 'none';
+        setTimeout(() => {
+            timeline.style.display = 'block';
+        }, 0);
+    }
+});
+</script>
+
 
 
