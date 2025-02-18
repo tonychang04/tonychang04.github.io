@@ -29,7 +29,7 @@ Software engineer by day, philosopher by night. Forever seeking ways to make the
 
 
 
-<link rel="stylesheet" href="timeline.css">
+<link rel="stylesheet" href="/css/timeline.css">
 
 <h2 style="text-align: center; margin-bottom: 40px; color: #363636;">Follow My Journey of Personal Growth!</h2>
 
