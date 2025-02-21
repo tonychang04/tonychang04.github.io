@@ -5,7 +5,7 @@ keywords: null
 author: John Doe
 language: en
 timezone: ''
-url: http://example.com
+url: https://tonychang04.github.io/
 permalink: ':year/:month/:day/:title/'
 permalink_defaults: null
 pretty_urls:
@@ -65,6 +65,15 @@ deploy:
   branch: gh-pages
 
 feed:
-  type: rss2    # or 'atom' if you prefer Atom feeds
-  path: feed.xml   # this sets the URL to /feed.xml on your site
-  limit: 10      # number of items in the feed
+  enable: true
+  type: rss2
+  path: rss.xml
+  limit: 20
+  hub:
+  content:
+  content_limit: 140
+  content_limit_delim: ' '
+  order_by: -date
+  icon: icon.png
+  autodiscovery: true
+  template:
