@@ -1,5 +1,5 @@
 ---
-title: 2025-2-20-Antropic
+title: Antropic - The Best LLM Provider?
 date: 2025-02-20 21:44:10
 tags:
  - Personal Growth
