@@ -4,15 +4,15 @@
   xmlns:content="http://purl.org/rss/1.0/modules/content/">
   <channel>
     <title>Hexo</title>
-    <link>http://example.com/</link>
+    <link>https://tonychang04.github.io/</link>
     
     <image>
-      <url>http://example.com/icon.png</url>
+      <url>https://tonychang04.github.io/icon.png</url>
       <title>Hexo</title>
-      <link>http://example.com/</link>
+      <link>https://tonychang04.github.io/</link>
     </image>
     
-    <atom:link href="http://example.com/rss.xml" rel="self" type="application/rss+xml"/>
+    <atom:link href="https://tonychang04.github.io/rss.xml" rel="self" type="application/rss+xml"/>
     
     <description></description>
     <pubDate>Tue, 18 Feb 2025 04:27:14 GMT</pubDate>
@@ -20,8 +20,8 @@
     
     <item>
       <title>Hello World - My First Blog Post</title>
-      <link>http://example.com/2025/02/16/hello-world/</link>
-      <guid>http://example.com/2025/02/16/hello-world/</guid>
+      <link>https://tonychang04.github.io/2025/02/16/hello-world/</link>
+      <guid>https://tonychang04.github.io/2025/02/16/hello-world/</guid>
       <pubDate>Sun, 16 Feb 2025 19:02:12 GMT</pubDate>
       
         
@@ -36,16 +36,16 @@
       
       
       
-      <category domain="http://example.com/tags/Philosophy/">Philosophy</category>
+      <category domain="https://tonychang04.github.io/tags/Philosophy/">Philosophy</category>
       
-      <category domain="http://example.com/tags/Personal-Growth/">Personal Growth</category>
+      <category domain="https://tonychang04.github.io/tags/Personal-Growth/">Personal Growth</category>
       
-      <category domain="http://example.com/tags/Technology/">Technology</category>
+      <category domain="https://tonychang04.github.io/tags/Technology/">Technology</category>
       
-      <category domain="http://example.com/tags/Reflection/">Reflection</category>
+      <category domain="https://tonychang04.github.io/tags/Reflection/">Reflection</category>
       
       
-      <comments>http://example.com/2025/02/16/hello-world/#disqus_thread</comments>
+      <comments>https://tonychang04.github.io/2025/02/16/hello-world/#disqus_thread</comments>
       
     </item>
     
