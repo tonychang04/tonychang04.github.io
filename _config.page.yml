@@ -1,1 +1,72 @@
-widgets: null
+widgets:
+    # Profile widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: profile
+        # Author name
+        author: Tony Chang
+        # Author title
+        author_title: Databricks | Naive Philosopher
+        # Author's current location
+        location: Bellevue, WA
+        # URL or path to the avatar image
+        avatar: /img/profile.png
+        # Whether show the rounded avatar image
+        avatar_rounded: true
+        # Email address for the Gravatar
+        gravatar: 
+        # URL or path for the follow button
+        follow_link: https://www.linkedin.com/in/tony-chang-0430/
+        # Links to be shown on the bottom of the profile widget
+        social_links:
+            Github:
+                icon: fab fa-github
+                url: https://github.com/tonychang04
+            LinkedIn:
+                icon: fab fa-linkedin
+                url: https://www.linkedin.com/in/tony-chang-0430/
+            Twitter:
+                icon: fab fa-x
+                url: https://x.com/tonychang430
+            Email:
+                icon: fas fa-envelope
+                url: mailto:tonychang430@gmail.com
+    # Table of contents widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: toc
+        # Whether to show the index of each heading
+        index: true
+        # Whether to collapse sub-headings when they are out-of-view
+        collapsed: true
+        # Maximum level of headings to show (1-6)
+        depth: 3
+    # Categories widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: categories
+    # Recent posts widget configurations
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: tags
+        # How to order tags. For example 'name' to order by name in ascending order, and '-length' to order by number of posts in each tags in descending order
+        order_by: name
+        # Amount of tags to show. Will show all if not set.
+        amount: 
+        # Whether to show tags count, i.e. number of posts in the tag.
+        show_count: true
+
+    -
+        # Where should the widget be placed, left sidebar or right sidebar
+        position: left
+        type: followit
+        # Hint text under the email input
+        description: "Subscribe to my blog via email"
+        # Subscription form action URL
+        action_url: 'https://api.follow.it/subscription-form/aTRFb0NaaHRvc0w2RTBKSUZwTzU1SDJxNTRRenFHcUFnUWtUZGdYYXFFYTVIMTZuVll2bnZ5VTMrYysxWlR5aFZVUXJSZFVEejdoTk5zcG5vS0d6SGh5SVF0Y1FxZXlZdk1rdkR6WGs5RDVGQmZwQTNHTlpDaTZOR0RTTXVVWW58V0JRZzFBVkZ4eFNJdzFyMUlNd01PNEZnZVVwRGxhZ2kvb3hIcHRTNHRrST0=/8'
+        # Feed claiming verification code
+        verification_code: 's112Mz5sEKNmuRFe3zZW'
