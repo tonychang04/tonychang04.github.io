@@ -26,7 +26,7 @@ Both arguments have their merits, and I can see why people would agree with eith
 
 ## What do I value?
 
-***dum rolls please***
+***drum rolls please***
 Neither😂. I value my personal growth. I don't really care if the journey is long or short, pleasurable or painful. I also don't care if the destination/result is good or bad. I believe the journey is the journey, and the destination is the destination. Both are important aspects of life, but what I learn along the way is more important than both of those. If I can discover something new in life within the journey or after reaching the destination, I will be very happy!
 
 Taking a very bad example on top of my mind. Person A and person B are both applying for jobs. They both put in the hardwork but Person A got the offer and Person B didn't. Person A might be very happy, and Person B might be very sad. However, Person B might learn a lot from the interview process and spent time analyzing on how to improve himself for the next time he applies for a job. 
