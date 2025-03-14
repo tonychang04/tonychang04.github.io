@@ -12,7 +12,7 @@ tags:
 Today's post is inspired by coworkers conversation. I somehow got assigned more work. 2-3 TL's both want me to work on their projects, and in the end they having a tradeoff to make sure I'm not overwhelmed. But the funny thing is they are deciding to trade off project A or project B, but I already have project C,D,E,F,G 😂. The tradeoff is essentially nonexistent if they really want me to not be overwhelmed. 
 
 <figure class="post-figure">
-    <img src="/img/2025-03-13ManageTime.png"  class="post-image" width="500" height="500">
+    <img src="/img/2025-03-13Time.png"  class="post-image" width="500" height="500">
     <figcaption>I honestly don't know how I manage my time. I just try my best to "survive"</figcaption>
 </figure>
 
