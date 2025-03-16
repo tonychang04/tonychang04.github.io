@@ -67,6 +67,6 @@ widgets:
         # Hint text under the email input
         description: "Subscribe to my blog via email"
         # Subscription form action URL
-        action_url: 'https://api.follow.it/subscription-form/aTRFb0NaaHRvc0w2RTBKSUZwTzU1SDJxNTRRenFHcUFnUWtUZGdYYXFFYTVIMTZuVll2bnZ5VTMrYysxWlR5aFZVUXJSZFVEejdoTk5zcG5vS0d6SGh5SVF0Y1FxZXlZdk1rdkR6WGs5RDVGQmZwQTNHTlpDaTZOR0RTTXVVWW58V0JRZzFBVkZ4eFNJdzFyMUlNd01PNEZnZVVwRGxhZ2kvb3hIcHRTNHRrST0=/8'
+        action_url: 'https://api.follow.it/subscription-form/WU5HMVFwOHJmcjF0TUFqaG04c0NCZUJPQ3VYY2JleHlDWkttYmZkY0FGRElFd2l5WkN0Tit4cXZMb1JJSGlJK0hPMUVHQXJUZ2FDbCtDTksySGg5K3hlR04wOHNXRE9FY1R4RDJKdmt2SVI2Tlhxd25HVVk4WENXWTltb1VjRXN8VWN3MXpvQnE3enVweVlEZk5lZTQrNmdUbWpCSjU2TjZJcFkxaXBFbEYyUT0=/8'
         # Feed claiming verification code
         verification_code: 's112Mz5sEKNmuRFe3zZW'
