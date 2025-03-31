@@ -6,3 +6,11 @@ Check out my personal portfolio built with:
 
 
 
+hexo clean
+hexo generate
+hexo server/hexo deploy
+
+hexo new post "post title"
+
+
+

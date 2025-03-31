@@ -16,9 +16,10 @@ Today's post is inspired by coworkers conversation. I somehow got assigned more 
     <figcaption>I honestly don't know how I manage my time. I just try my best to "survive"</figcaption>
 </figure>
 
+## Main Content
 
 
-## How do you manage your time?
+### How do you manage your time?
 
 Currently I'm working on 7 projects. To literally list them out but not providing any context:
 - Golden Gate

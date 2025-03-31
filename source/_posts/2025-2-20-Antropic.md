@@ -15,21 +15,24 @@ It's my second blog post! After busy day work @ Databricks, I don't want to do a
     <figcaption>Anthropic's focusing on safety and alignment. It's very novel and interesting.</figcaption>
 </figure>
 
-## What is Antropic?
+## Main Content
+
+
+### What is Antropic?
 
 Some people might not even know this company. Simple words: It's competitor of OpenAI. It builds Claude which is one of the most popular LLM, especially for its ability in helping with coding. Although both focusing on LLM, they are very different.
 
 
-## Why I like it?
+### Why I like it?
 
 A lot of LLM companies nowadays are grinding for the best performance. All of the LLM are beating eac other in terms of accuracy in some benchmarks. I feel like this is a waste of resources. Novelty needs to be valued here. They should focus on new things to better help people. As customer, I don't care about perfmrance being 1% better in math or computer science. I just want either cheap models or models that are truely different. When GPT3 first came out, it's not the best. But it's novel and useful. However, now it's just a standard. New extensions need to be made.
 
-## What is Anthropic doing differently?
+### What is Anthropic doing differently?
 
 Anthropic is focusing on safety and alignment. As mentioned in their [research principles](https://www.anthropic.com/research), they want to build a safe, scable, and systamatic AI. 
 
 A lot of interesting thigns they did is..
-### [Model Context Protocol(MCP)](https://www.anthropic.com/news/model-context-protocol)
+#### [Model Context Protocol(MCP)](https://www.anthropic.com/news/model-context-protocol)
 
 Model Context Protocol is truely one of it's kind. As we entered the era of agentic workflow. Different LLM are using different ways to call API, access data, and more. Nothing is standardized or unified. 
 
@@ -40,7 +43,7 @@ Imagine you are connected github MCP server. You simply have to enter text in yo
 The drawback of this is that it's only supported by Anthropic's models. However, it's still a great step towards standardization. If other LLM providers want to support MCP, they are conceding to Anthropic's standard(so I bet they won't do it😂).
 
 
-### [Constitutional Classifiers](https://www.anthropic.com/news/constitutional-classifiers)
+#### [Constitutional Classifiers](https://www.anthropic.com/news/constitutional-classifiers)
 
 Anthropic is also focusing on heavily on safety. They are building a safety model that can detect/filter harmful content, which I belive is important when we want to productionize LLM as a well-rounded assistant. 
 
