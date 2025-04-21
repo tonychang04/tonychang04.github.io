@@ -41,6 +41,13 @@ Software engineer by day, philosopher by night. Forever seeking ways to make the
     </div>
   </div>
 
+   <div class="timeline-item">
+    <div class="timeline-content">
+      <h3>April 2025</h3>
+      <h4><a href="https://www.linkedin.com/posts/tony-chang-0430_cozad2025-entrepreneurship-judge-activity-7313416497605791744-zhgG?utm_source=share&utm_medium=member_desktop&rcm=ACoAACf4yicBnzSs2IAnLnxFV9mCSzPw0JNo6g8" target="_blank" style="color: inherit; text-decoration: none;">Cozad 2025 Startup Competition Judge(more than 200 participants, 150k prize pool!)</a></h4>
+    </div>
+  </div>
+
   <div class="timeline-item">
     <div class="timeline-content">
       <h3>Nov 2024</h3>
